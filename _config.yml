@@ -11,11 +11,11 @@ repository: "Eastiasleeve94/LJT-Homepage"
 
 # Site Author
 author:
-  avatar: ""
+  avatar: "profile.png"
   name: "Junteng Liu"
   pronouns:
   bio: "First-year PhD candidate at HKUST NLP Group. Research focuses on natural language processing and machine learning."
-  location: ""
+  location:
   employer: "Hong Kong University of Science and Technology"
   uri: "https://github.com/Vicent0205"
   email: "jliugi@connect.ust.hk"
